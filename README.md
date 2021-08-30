@@ -4,6 +4,4 @@ MSIS
 
 # Adithyaboyana
 
-MG
-
 # Bhoffy
